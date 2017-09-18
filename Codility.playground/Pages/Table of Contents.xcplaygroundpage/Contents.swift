@@ -26,5 +26,10 @@
      - [Triangle](Triangle)
      - [MaxProductOfThree](MaxProductOfThree)
      - [NumberOfDiscIntersections](NumberOfDiscIntersections)
+ 1. Lesson 7 (Stacks and Queues)
+     - [StoneWall](StoneWall)
+     - [Brackets](Brackets)
+     - [Nesting](Nesting)
+     - [Fish](Fish)
 */
 
