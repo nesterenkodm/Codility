@@ -31,5 +31,8 @@
      - [Brackets](Brackets)
      - [Nesting](Nesting)
      - [Fish](Fish)
+ 1. Lesson 8 (Leader)
+     - [EquiLeader](EquiLeader)
+     - [Dominator](Dominator)
 */
 

@@ -24,5 +24,7 @@
         <page name='Brackets'/>
         <page name='Nesting'/>
         <page name='Fish'/>
+        <page name='EquiLeader'/>
+        <page name='Dominator'/>
     </pages>
 </playground>
