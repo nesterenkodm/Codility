@@ -1,4 +1,6 @@
 /*:
+ [Previous](Brackets)
+ 
  # Nesting
  
  ## Determine whether given string of parentheses is properly nested.

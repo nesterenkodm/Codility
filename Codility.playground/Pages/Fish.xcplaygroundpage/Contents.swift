@@ -1,4 +1,6 @@
 /*:
+ [Previous](Nasting)
+ 
  # Fish
  
  ## N voracious fish are moving along a river. Calculate how many fish are alive.

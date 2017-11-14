@@ -1,4 +1,6 @@
 /*:
+ [Previous](PassingCars)
+ 
  # CountDiv
  
  ## Compute number of integers divisible by k in range [a..b].

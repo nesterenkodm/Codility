@@ -1,4 +1,6 @@
 /*:
+ [Previous](MaxProductOfThree)
+ 
  # NumberOfDiscIntersections
  
  ## Compute the number of intersections in a sequence of discs.
